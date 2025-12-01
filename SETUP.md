@@ -88,7 +88,7 @@ Features:
 2. Click "New Project" → "Deploy from GitHub repo"
 3. Connect your GitHub repository
 4. Railway will auto-detect the `Procfile` and deploy!
-5. Add environment variable: `MISTRAL_API_KEY=4BQlDFelbTdTEruYPmHHOVMtYOBAtofZ`
+5. Add environment variable: `MISTRAL_API_KEY=`
 
 Your app will be live 24/7 with a public URL!
 
@@ -175,3 +175,4 @@ Then open **http://localhost:3000** and enjoy your **FREE, POWERFUL, REPLIT-KILL
 
 **Made with ❤️ by SK**  
 **Powered by: Express.js, Monaco Editor, Mistral AI**
+
